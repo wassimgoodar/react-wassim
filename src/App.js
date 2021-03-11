@@ -1,11 +1,14 @@
 import React from "react";
+import Instruction from "./Instruction";
+import SubmitButtom from "./SubmitButton";
+
 import "./style.css";
 
 export default function App() {
   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start  :)</p>
+      <Instruction />
+      <SubmitButtom />
     </div>
   );
 }

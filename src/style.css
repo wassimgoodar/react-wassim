@@ -6,3 +6,8 @@ p {
 body {
   background-color: rgb(72, 197, 145);
 }
+
+.alighCenter
+{
+  text-align: center;
+}
